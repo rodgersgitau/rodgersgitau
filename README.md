@@ -7,19 +7,18 @@
 <a href="https://github.com/rodgersgitau">
   <img align="left" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />
 </a>
-<br />
----
+<br clear="both"/>
+
 
 ## Hi there, I'm [**Rodgers M Gitau**](https://rodgersgitau.github.io) 👋
 ## I'm a Software Engineer(Frontend) based in Nairobi Kenya.
 
-### Stats:
 
-[<img align="left" width="300px" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
+[<img align="left" width="50%" height="100%" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
 
-[<img align="left" width="300px" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title='Wakatime%20Weekly%20Stats'&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
+[<img align="right" width="50%" height="100%" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title= Wakatime%20Weekly%20Stats &layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
 
-<br />
+<br clear="both" />
 
 ### Connect with Me
 
