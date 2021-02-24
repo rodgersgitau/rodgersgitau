@@ -1,6 +1,5 @@
-[<img align="center" src="https://img.shields.io/github/followers/rodgersgitau?label=Follow&style=social" />]
-[<img align="center" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />]
-
+[<img align="center" src="https://img.shields.io/github/followers/rodgersgitau?label=Follow&style=social" />]("https://github.com/rodgersgitau")
+[<img align="center" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />](https://github.com/rodgersgitau)
 <br clear="both"/>
 
 
