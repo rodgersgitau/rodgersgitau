@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- Hi, my name is Rodgers M Gitau and I'm a Software Engineer(Frontend) based in Nairobi Kenya
+- I'm **Rodgers M Gitau**, a Software Engineer(Frontend) based in Nairobi Kenya
 - [My Website](https://www.rodgersgitau.github.io)
 
 [![Rodgers M Gitau's Github Stats](https://github-readme-stats.vercel.app/api?username=rodgersgitau&show_icons=true&theme=tokyonight)](https://github.com/rodgersgitau/github-readme-stats)
