@@ -4,10 +4,10 @@
 - I'm **Rodgers M Gitau**, a Software Engineer(Frontend) based in Nairobi Kenya
 - [My Website](https://www.rodgersgitau.github.io)
 
-<a href="https://github.com/rodgersgitau/github-readme-stats">
+<a style="width:50%;" href="https://github.com/rodgersgitau/github-readme-stats">
   <img align="center" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/rodgersgitau/github-readme-stats">
+<a style="width:50%;" href="https://github.com/rodgersgitau/github-readme-stats">
   <img align="center" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&theme=tokyonight" />
 </a>
 
