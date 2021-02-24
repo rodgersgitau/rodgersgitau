@@ -1,12 +1,6 @@
-<a href="https://github.com/rodgersgitau">
-  <img align="center" src="https://img.shields.io/github/followers/rodgersgitau?label=Follow&style=social" />
-</a>
-<a href="https://github.com/rodgersgitau">
-  <img align="center" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />
-</a>
-<a href="https://github.com/rodgersgitau">
-  <img align="center" src="https://img.shields.io/github/last-commit/rodgersgitau/rodgersgitau?style=social" />
-</a>
+[<img align="center" src="https://img.shields.io/github/followers/rodgersgitau?label=Follow&style=social" />]
+[<img align="center" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />]
+
 <br clear="both"/>
 
 
