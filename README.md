@@ -4,11 +4,12 @@
 - I'm **Rodgers M Gitau**, a Software Engineer(Frontend) based in Nairobi Kenya
 - [My Website](https://www.rodgersgitau.github.io)
 
-[![My Github Stats](https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&show_icons=true&theme=tokyonight)](https://github.com/rodgersgitau/github-readme-stats)
-
-[![My Wakatime stats](https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau)](https://github.com/rodgersgitau/github-readme-stats)
-
-[![My Top Langs](https://rodgersgitau-stats.vercel.app/api/top-langs/?username=rodgersgitau&layout=compact)](https://github.com/rodgersgitau/github-readme-stats)
+<a href="https://github.com/rodgersgitau/github-readme-stats">
+  <img align="center" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/rodgersgitau/github-readme-stats">
+  <img align="center" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&theme=tokyonight" />
+</a>
 
 
 <!--
