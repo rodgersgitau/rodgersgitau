@@ -3,8 +3,8 @@
 <br clear="both"/>
 
 
-## Hi there, I'm [**Rodgers M Gitau**](https://rodgersgitau.github.io) 👋
-## I'm a Software Engineer(Frontend) based in Nairobi Kenya.
+## Hi there 👋
+#### I'm [**Rodgers M Gitau**](https://rodgersgitau.github.io), a Software Engineer(Frontend) based in Nairobi Kenya.
 
 
 [<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
