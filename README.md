@@ -8,7 +8,7 @@
 
 
 [<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
-[<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title= Wakatime%20Weekly%20Stats &layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
+[<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title= Wakatime%20Weekly%20Stats &layout=compact&theme=dark" />]("https://github.com/rodgersgitau/github-readme-stats")
 
 <br clear="both" />
 
