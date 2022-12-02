@@ -7,8 +7,8 @@
 #### I'm [**Rodgers M Gitau**](https://rodgersgitau.github.io), a Software Engineer(Frontend) based in Nairobi Kenya.
 
 
-[<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />]("https://github.com/rodgersgitau/github-readme-stats")
-[<img align="center" width="450" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title= Wakatime%20Weekly%20Stats &layout=compact&theme=dark" />]("https://github.com/rodgersgitau/github-readme-stats")
+[<img align="center" width="500" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&&custom_title=Github%20Stats&count_private=true&show_icons=true&layout=compact&theme=dark" />]("https://github.com/rodgersgitau/github-readme-stats")
+[<img align="center" width="500" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&custom_title=Wakatime%20Stats&layout=compact&theme=dark" />]("https://github.com/rodgersgitau/github-readme-stats")
 
 <br clear="both" />
 
