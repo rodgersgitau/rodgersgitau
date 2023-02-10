@@ -14,9 +14,8 @@
 
 ### Connect with Me
 
-+ [**website**](http://rodgersgitau.github.io/)
-+ [**medium**](https://medium.com/@rodgersgitau/)
-+ [**twitter**](https://medium.com/@rodgersgitau/)
++ [**website**](http://rodgersgitau.netlify.app/)
++ [**linkedIn**](https://www.linkedin.com/in/rodgersgitau/)
 
 <!--
 **rodgersgitau/rodgersgitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
