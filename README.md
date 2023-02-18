@@ -4,7 +4,8 @@
 
 
 ## Hi there 👋
-#### I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a Software Engineer(Frontend) based in Nairobi Kenya. I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
+#### I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a Software Engineer(Frontend) based in Nairobi Kenya.
+I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
 
 
 [<img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&count_private=true&show_icons=true&layout=compact&theme=dark" />]("https://github.com/rodgersgitau/github-readme-stats")
