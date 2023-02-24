@@ -3,8 +3,10 @@
 <br clear="both"/>
 
 
-## Hi there 👋
-#### I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a Software Engineer(Frontend) based in Nairobi Kenya.
+## Hello 👋 I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app).
+
+I'm a full-stack software engineer based in Nairobi, Kenya. For the past 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
+
 I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
 
 
