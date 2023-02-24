@@ -48,7 +48,7 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 ### Top Repositories
 
 <p>
-<a href="https://github.com/rodgersgitau/mzizi/mzizi-community">
+<a href="https://github.com/mzizi/mzizi-community">
   <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/wholelife">
@@ -56,6 +56,9 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 </a>
 <a href="https://github.com/mzizi/freechat">
   <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
+</a>
+  <a href="https://github.com/rodgersgitau/portfolio">
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=rodgersgitau&repo=portfolio&theme=dark" />
 </a>
 </p>
 
