@@ -5,9 +5,12 @@
 
 ## Hello 👋
 
+
 I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullStack software engineer based in Nairobi, Kenya. 
   - For the past 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
   - I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
+  - Contact me via  [my website](http://rodgersgitau.vercel.app/) or [linkedIn](https://www.linkedin.com/in/rodgersgitau/)
+
 
 <br clear="both"/>
 
@@ -54,11 +57,6 @@ I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullSt
 </a>
 
 <br clear="both" />
-
-## Connect with Me
-
-+ [**Website**](http://rodgersgitau.vercel.app/)
-+ [**LinkedIn**](https://www.linkedin.com/in/rodgersgitau/)
 
 <!--
 **rodgersgitau/rodgersgitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
