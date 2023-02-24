@@ -49,13 +49,13 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 
 <p>
 <a href="https://github.com/rodgersgitau/mzizi/mzizi-community">
-  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/wholelife">
-  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/freechat">
-  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
 </a>
 </p>
 
