@@ -12,6 +12,8 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 - For the past 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
 - I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
 
+<br clear="both"/>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoWidth=40)
@@ -19,6 +21,7 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoWidth=40)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoWidth=40)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoWidth=40)
+
 
 ### Technologies
 
@@ -34,23 +37,27 @@ I'm a self-taught FullStack software engineer based in Nairobi, Kenya.
 
 ### Stats
 
-<img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&account_private=true&show_icons=true&layout=compact&theme=dark" />
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-<img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" />
+<p>
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&account_private=true&show_icons=true&layout=compact&theme=dark" />
+  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" />
+</p>
 
 <br clear="both" />
 
 ### Top Repositories
 
+<p>
 <a href="https://github.com/rodgersgitau/mzizi/mzizi-community">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
+  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/wholelife">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
+  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/freechat">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
+  <img align="center" width="300" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
 </a>
+</p>
 
 <br clear="both" />
 
