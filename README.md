@@ -16,18 +16,22 @@ I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullSt
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoWidth=40)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoWidth=40)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoWidth=40)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoWidth=40)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte&logoWidth=40)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoWidth=40)
+![VueJs](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoWidth=40)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React&logoWidth=40)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoWidth=40)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoWidth=40)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoWidth=40)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&logoWidth=40)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoWidth=40)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoWidth=40)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoWidth=40)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoWidth=40)
-![React Native](https://img.shields.io/badge/-React-000?&logo=React&logoWidth=40)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoWidth=40)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoWidth=40)
 
 <br clear="both" />
 
