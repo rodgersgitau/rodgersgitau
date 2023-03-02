@@ -47,8 +47,8 @@ I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullSt
 
 ## Top Repositories
 
-<a href="https://github.com/mzizi/mzizi-community">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=mzizi-community&theme=dark" />
+<a href="https://github.com/mzizi/land-agent">
+  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=land-agent&theme=dark" />
 </a>
 <a href="https://github.com/mzizi/wholelife">
   <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
