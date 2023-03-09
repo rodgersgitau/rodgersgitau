@@ -20,6 +20,7 @@ I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullSt
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoWidth=40)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoWidth=40)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoWidth=40)
+![Express.js](https://img.shields.io/badge/-Express-000?&logo=express&logoWidth=40)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte&logoWidth=40)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoWidth=40)
 ![VueJs](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoWidth=40)
