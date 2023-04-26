@@ -1,65 +1,26 @@
-[<img align="center" src="https://img.shields.io/github/followers/rodgersgitau?label=Follow&style=social" />]("https://github.com/rodgersgitau")
-[<img align="center" src="https://img.shields.io/github/forks/rodgersgitau/rodgersgitau?label=Forks&style=social" />](https://github.com/rodgersgitau)
+## Hello 👋 I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app)
 
-<br clear="both"/>
+As a programming enthusiast, I'm always exploring new technologies and pushing the boundaries of what's possible. 
 
-## Hello 👋
-
-
-I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app), a self-taught FullStack software engineer based in Nairobi, Kenya. 
-  - For the past 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
-  - I'm fascinated with cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.
-  - Contact me via  [my website](http://rodgersgitau.vercel.app/) or [linkedIn](https://www.linkedin.com/in/rodgersgitau/)
+Here's some other info about me: 
+  - For 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
+  - I'm fascinated by many things, here you'll find anything from playful scripts & some terrible video games to polished applications.
+  - Reach me via [my official website](http://rodgersgitau.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/rodgersgitau/) and let's bring some coding magic to life.
 
 
 <br clear="both"/>
 
-## Tech Stack
+### Stats
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoWidth=40)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoWidth=40)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoWidth=40)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoWidth=40)
-![Express.js](https://img.shields.io/badge/-Express-000?&logo=express&logoWidth=40)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte&logoWidth=40)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoWidth=40)
-![VueJs](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoWidth=40)
-![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React&logoWidth=40)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoWidth=40)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoWidth=40)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoWidth=40)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&logoWidth=40)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoWidth=40)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoWidth=40)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoWidth=40)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoWidth=40)
-
-<br clear="both" />
-
-## Stats
-
-<p>
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&account_private=true&show_icons=true&layout=compact&theme=dark" />
-  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" />
-</p>
-
-<br clear="both" />
-
-## Top Repositories
-
-<a href="https://github.com/mzizi/land-agent">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=land-agent&theme=dark" />
-</a>
-<a href="https://github.com/mzizi/wholelife">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=wholelife&theme=dark" />
-</a>
-<a href="https://github.com/mzizi/freechat">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=mzizi&repo=freechat&theme=dark" />
-</a>
-  <a href="https://github.com/rodgersgitau/portfolio">
-  <img align="center" width="400" src="https://rodgersgitau-stats.vercel.app/api/pin/?username=rodgersgitau&repo=portfolio&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td valign="middle"><img src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" /></td>
+    <td valign="middle">
+      <p><img src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
+      <p><img src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&account_private=true&show_icons=true&layout=compact&theme=dark"/></p>
+    </td>
+  </tr>
+</table>
 
 <br clear="both" />
 
