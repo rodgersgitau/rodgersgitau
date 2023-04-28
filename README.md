@@ -5,7 +5,7 @@ As a programming enthusiast, I'm always exploring new technologies and pushing t
 Here's some other info about me: 
   - For 7+ years, I've designed, developed & shipped all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
   - I'm fascinated by many things, here you'll find anything from playful scripts & some terrible video games to polished applications.
-  - Reach me via [my official website](http://rodgersgitau.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/rodgersgitau/).
+  - Reach me via [my website](http://rodgersgitau.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/rodgersgitau/).
   
 + 🔭  Exploring automation, web applicalitons, design systems etc
 + 🌱  Currently learning design systems at large scale
