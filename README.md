@@ -16,10 +16,13 @@ Here's some other info about me:
 <br clear="both"/>
 
 ### Stats
+[![wakatime](https://wakatime.com/badge/user/079a160f-031f-4cf0-a895-cefa57e2b0ff.svg)](https://wakatime.com/@079a160f-031f-4cf0-a895-cefa57e2b0ff)
 
 <table>
   <tr>
-    <td valign="middle"><img src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" /></td>
+    <td valign="middle">
+      <img src="https://rodgersgitau-stats.vercel.app/api/wakatime?username=rodgersgitau&layout=compact&theme=dark" />
+    </td>
     <td valign="middle">
       <p><img src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
       <p><img src="https://rodgersgitau-stats.vercel.app/api?username=rodgersgitau&account_private=true&show_icons=true&layout=compact&theme=dark"/></p>
