@@ -9,15 +9,9 @@ Here's some other info about me:
   - 👯  Looking to collaborate on interesting projects that push the envelope or just purely fun.
   - 💬  Ask me about tech stuff, music, spirituality, philosophy & the secrets to the universe
  
-<!-- CONTACT -->
-### Contact
-
-- Website:   [Rodgers Gitau](http://rodgersgitau.vercel.app/)
-- LinkedIn:  [in/rodgersgitau](https://www.linkedin.com/in/rodgersgitau/)
-
 <br clear="both"/>
 
-### Stats
+## Stats
 [![wakatime](https://wakatime.com/badge/user/079a160f-031f-4cf0-a895-cefa57e2b0ff.svg)](https://wakatime.com/@079a160f-031f-4cf0-a895-cefa57e2b0ff)
 
 <table>
