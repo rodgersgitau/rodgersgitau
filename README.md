@@ -3,15 +3,17 @@
 As a programming enthusiast, I'm always exploring new technologies and pushing the boundaries of what's possible. 
 
 Here's some other info about me: 
-  - For 7+ years, I've built all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.
-  - I'm fascinated by many things, here you'll find anything from playful scripts & some terrible video games to polished applications.
-  - Reach me via [my website](http://rodgersgitau.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/rodgersgitau/).
-  
-+ 🔭  Exploring automation, web applicalitons, design systems etc
-+ 🌱  Currently learning design systems at large scale
-+ 👯  Looking to collaborate on interesting projects that push the envelope or just purely fun
-+ 💬  Ask me about tech stuff, music, spirituality, philosophy & the secrets to the universe 😅
+  - 📆  For 7+ years, I've built all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.  
+  - 🔭  Exploring automation, web applicalitons, design systems.
+  - 🌱  Currently learning design systems at large scale.
+  - 👯  Looking to collaborate on interesting projects that push the envelope or just purely fun.
+  - 💬  Ask me about tech stuff, music, spirituality, philosophy & the secrets to the universe
+ 
+<!-- CONTACT -->
+### Contact
 
+- Website:   [Rodgers Gitau](http://rodgersgitau.vercel.app/)
+- LinkedIn:  [in/rodgersgitau](https://www.linkedin.com/in/rodgersgitau/)
 
 <br clear="both"/>
 
