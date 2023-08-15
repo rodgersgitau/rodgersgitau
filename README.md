@@ -1,14 +1,7 @@
-## Hello 👋 I'm [**Rodgers M Gitau**](https://rodgersgitau.vercel.app)
-
-As a programming enthusiast, I'm always exploring new technologies and pushing the boundaries of what's possible. 
-
-Here's some other info about me: 
-  - 📆  For 7+ years, I've built all sorts of web applications for a myriad of industries i.e hospitality, real estate, ecommerce & healthcare.  
-  - 🔭  Exploring automation, web applicalitons, design systems.
-  - 🌱  Currently building solutions for SMEs/SMBs at [Mzizi Studio](https://mzizistudio.com)
-  - 👯  Looking to collaborate on interesting projects that push the envelope or just purely fun.
-  - 💬  Ask me about tech stuff, music, anime, spirituality, philosophy & the secrets to the universe
- 
+<div align="center">
+  <img src="https://res.cloudinary.com/valdadyne/image/upload/v1692133381/RG_Profile_Banner.gif" />
+</div>
+        
 <br clear="both"/>
 
 ## Stats
