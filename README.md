@@ -4,6 +4,27 @@
         
 <br clear="both"/>
 
+## Connect with me
+
+<div align="left">
+  </a>
+    <a href="https://mzizistudio.com" >
+     <img align="left" width="100" height="32.5" alt="Mzizi Studio" src="https://res.cloudinary.com/valdadyne/image/upload/v1692135455/mzizi.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodgersgitau/" >
+    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/rodgersgitau" >
+     <img align="left" alt="Codepen" src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://codesandbox.io/u/rodgersgitau" >
+     <img align="left" alt="CodeSandbox" src="https://img.shields.io/badge/codesandbox-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+<br clear="both"/>
+<br />    
+
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/079a160f-031f-4cf0-a895-cefa57e2b0ff.svg)](https://wakatime.com/@079a160f-031f-4cf0-a895-cefa57e2b0ff)
 
