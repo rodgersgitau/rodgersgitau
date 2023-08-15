@@ -4,13 +4,9 @@
         
 <br clear="both"/>
 
-## Connect with me
+## Connect
 
 <div align="left">
-  </a>
-    <a href="https://mzizistudio.com" >
-     <img align="left" width="100" height="32.5" alt="Mzizi Studio" src="https://res.cloudinary.com/valdadyne/image/upload/v1692135455/mzizi.png" />
-  </a>
   <a href="https://www.linkedin.com/in/rodgersgitau/" >
     <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
