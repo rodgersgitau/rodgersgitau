@@ -1,6 +1,6 @@
-<div align="center">
+<a title="Rodgers M Gitau" href="https://rodgersgitau.vercel.app" align="center">
   <img src="https://res.cloudinary.com/valdadyne/image/upload/v1692133381/RG_Profile_Banner.gif" />
-</div>
+</a>
         
 <br clear="both"/>
 
