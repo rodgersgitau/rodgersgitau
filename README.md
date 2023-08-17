@@ -8,13 +8,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodgersgitau/" >
-    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230D76A8.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codepen.io/rodgersgitau" >
-     <img align="left" alt="Codepen" src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+     <img align="left" alt="Codepen" src="https://img.shields.io/badge/CodePen-%23f6f6f6.svg?style=for-the-badge&logo=codepen&logoColor=black"/>
   </a>
   <a href="https://codesandbox.io/u/rodgersgitau" >
-     <img align="left" alt="CodeSandbox" src="https://img.shields.io/badge/codesandbox-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+     <img align="left" alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandBox-%232323.svg?style=for-the-badge&logo=codesandbox&logoColor=white" />
   </a>
 </div>
 
