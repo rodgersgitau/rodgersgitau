@@ -7,6 +7,9 @@
 ## Connect
 
 <div align="left">
+<!--   <a href="https://www.twitter.com/rodgersgitau/" >
+    <img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> -->
   <a href="https://www.linkedin.com/in/rodgersgitau/" >
     <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230D76A8.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
