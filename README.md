@@ -1,7 +1,14 @@
-## Info
-<a title="Rodgers M Gitau" href="https://rodgersgitau.vercel.app" align="center">
-  <img src="https://res.cloudinary.com/valdadyne/image/upload/v1692133381/RG_Profile_Banner.gif" />
-</a>
+<img src="https://res.cloudinary.com/valdadyne/image/upload/v1698804021/Personal_Banner.gif" />
+
+<br clear="both"/>
+
+## Bio
+
+👋 Hi. I’m Gitau. I build lots of web applications and experiment with cool technologies (my opionionated defination of cool).
+
+Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger digital presence for SME's through branding and web development.
+
+For more information about me (and a whole lot of shenanigans), check out [rodgersgitau](https://rodgersgitau.vercel.app)
         
 <br clear="both"/>
 
