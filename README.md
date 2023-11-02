@@ -2,8 +2,6 @@
 
 <br clear="both"/>
 
-## Bio
-
 👋 Hi. I’m Gitau. I build lots of web applications and experiment with cool technologies (my opionionated defination of cool).
 
 Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger digital presence for SME's through branding and web development.
