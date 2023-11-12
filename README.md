@@ -24,8 +24,7 @@ For more information about me (and a whole lot of shenanigans), check out [rodge
   </a>
 </div>
 
-<br clear="both"/>
-<br />    
+<br clear="both"/>  
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/079a160f-031f-4cf0-a895-cefa57e2b0ff.svg)](https://wakatime.com/@079a160f-031f-4cf0-a895-cefa57e2b0ff)
