@@ -16,6 +16,9 @@ For more information about me (and a whole lot of shenanigans), check out [rodge
   <a href="https://www.linkedin.com/in/rodgersgitau/" >
     <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230D76A8.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://bento.me/rgitau" >
+    <img align="left" alt="Bento" src="https://img.shields.io/badge/bento-%23FFFFFF.svg?style=for-the-badge&logo=bento" />
+  </a>
   <a href="https://codepen.io/rodgersgitau" >
      <img align="left" alt="Codepen" src="https://img.shields.io/badge/CodePen-%23f6f6f6.svg?style=for-the-badge&logo=codepen&logoColor=black"/>
   </a>
