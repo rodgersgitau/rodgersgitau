@@ -2,7 +2,7 @@
 
 <br clear="both"/>
 
-<div align="center">
+<div align="left">
 
 👋 Hi. I’m Rodgers M Gitau. I build lots of web applications and experiment with cool technologies (my opionionated defination of cool).
 
