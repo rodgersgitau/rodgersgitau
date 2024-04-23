@@ -4,11 +4,9 @@
 
 <div align="left">
 
-👋 Hi. I’m Rodgers M Gitau. I build lots of web applications and experiment with cool technologies (my opionionated defination of cool).
+👋 Hi. I’m [Rodgers M Gitau](https://rodgersgitau.vercel.app). I build lots of web applications and experiment with cool technologies (my opionionated defination of cool).
 
 Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger digital presence for SME's through branding and web development.
-
-For more information about me (and a whole lot of shenanigans), check out [my website](https://rodgersgitau.vercel.app)
 
 </div>
         
