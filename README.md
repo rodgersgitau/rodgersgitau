@@ -50,7 +50,7 @@ Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger d
         </picture>
     </td>
     <td valign="middle">
-      <p>
+      <div>
         <picture>
           <source
             srcset="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&theme=dark&date_format=M%20j%5B%2C%20Y%5D"
@@ -62,8 +62,8 @@ Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger d
           />
           <img src="https://github-readme-streak-stats.herokuapp.com?user=rodgersgitau&date_format=M%20j%5B%2C%20Y%5D" />
         </picture>
-      </p>
-      <p>
+      </div>
+      <div>
         <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api?username=rodgersgitau&show_icons=true&layout=compact&theme=dark"
@@ -75,7 +75,7 @@ Currently working at [Mzizi Studio](https://mzizistudio.com) building stronger d
           />
           <img src="https://github-readme-stats.vercel.app/api?username=rodgersgitau&show_icons=true&layout=compact" />
         </picture>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
