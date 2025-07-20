@@ -2,7 +2,7 @@
 
 <br clear="both"/>
 
-🚀 Hi, I'm [Rodgers M Gitau](https://gitau.co) — I empower SMEs to thrive online by building impactful brands and crafting tailored web applications at [Mzizi Studio](https://mzizistudio.com).
+🚀 Hi, I'm [Rodgers M Gitau](https://gitau.co) — I empower SMEs to thrive online by building impactful brands and crafting tailored web applications at [Mzizi](https://mzizigroup.com).
 
 <br clear="both"/>
 
