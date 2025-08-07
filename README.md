@@ -2,7 +2,7 @@
 
 <br clear="both"/>
 
-🛠  Hi, I'm [Rodgers M Gitau](https://gitau.co) and I build build products for brands to thrive online [Mzizi](https://mzizigroup.com).
+🛠  Hi, I'm [Rodgers M Gitau](https://gitau.co) and I build build products for brands to thrive online.
 
 <br clear="both"/>
 
