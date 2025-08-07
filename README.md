@@ -2,7 +2,11 @@
 
 <br clear="both"/>
 
-🛠  Hi, I'm [Rodgers M Gitau](https://gitau.co) and I build build products for brands to thrive online.
+👋💬 Hi, I'm [Rodgers M Gitau](https://gitau.co) and I build build products for brands to thrive online.
+
+<br clear="both"/>
+
+🛠  Web Solutions Engineer at [Mzizi](https://mzizigroup.com) based in Nairobi, Kenya.
 
 <br clear="both"/>
 
